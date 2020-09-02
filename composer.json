@@ -1,0 +1,14 @@
+{
+    "name": "technocrats/laravel-perfectmoney",
+    "description": "Package for laravel perfect money gateway",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mohit",
+            "email": "webexpert889@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
